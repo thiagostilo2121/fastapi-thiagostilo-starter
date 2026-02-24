@@ -1,0 +1,26 @@
+# Entornos Virtuales
+.venv
+venv/
+ENV/
+env/
+
+# Variables de entorno
+.env
+
+# Core Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Bases de Datos locales
+*.sqlite3
+*.db
+dev.db
+
+# Herramientas
+.pytest_cache/
+.coverage
+.ruff_cache/
+.mypy_cache/
+.bandit
