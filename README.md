@@ -2,7 +2,7 @@
 
 Un **boilerplate de nivel de producción** para construir APIs robustas en Python. Diseñado con separación estricta de responsabilidades (Clean Architecture en Capas), seguridad por defecto y sin código espagueti.
 
-Creado por **[Thiago Stilo](https://github.com/thiagostilo)**, basado en la arquitectura y patrones extraídos de los desarrollos en producción de la startup **[Pedilo](https://github.com/thiagostilo2121/pedilo-api)**.
+Creado por **[Thiago Stilo](https://github.com/thiagostilo2121)**, basado en la arquitectura y patrones extraídos de los desarrollos en producción de la startup **[Pedilo](https://github.com/thiagostilo2121/pedilo-api)**.
 
 ---
 
